@@ -51,8 +51,6 @@ https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis
 
 ## Author
 
-| Name 
-|---|---|---|
 | Martin Milon | M.S. Data Science | B.A. Economics & Political Science
 
 ---
