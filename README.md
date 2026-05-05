@@ -45,3 +45,18 @@ using the Instacart Online Grocery Shopping Dataset 2017.
 ## Dataset
 Instacart Online Grocery Shopping Dataset 2017
 https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
+
+
+---
+
+## Author
+
+| Name 
+|---|---|---|
+| Martin Milon | M.S. Data Science | B.A. Economics & Political Science
+
+---
+
+## License
+
+This project is submitted for academic purposes. All rights reserved by the respective author.
